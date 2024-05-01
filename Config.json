@@ -1,0 +1,7 @@
+{
+    "token": "",
+    "prefix": "/",
+    "developers": [896624546990411826],
+    "globalSlashCommands": true,
+    "slashCommandServerID": false
+}
